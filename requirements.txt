@@ -1,0 +1,17 @@
+pip>=9
+setuptools>=26
+wheel>=0.29
+pandas
+pytest
+coverage
+numpy
+httpx
+scikit-learn==1.7.2
+joblib
+memoized-property
+gcsfs
+termcolor
+uvicorn
+gunicorn
+fastapi
+pydantic
